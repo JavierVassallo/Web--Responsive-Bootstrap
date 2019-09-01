@@ -6,4 +6,4 @@ Toda la pagina es responsiva.
 
 Image:
 
-![](C:\Users\COMPAQ\Desktop\web-bootstrap)
+![](https://github.com/JavierVassallo/Web--Responsive-Bootstrap/blob/master/img/image1.png)
