@@ -6,4 +6,10 @@ Toda la pagina es responsiva.
 
 
 
-![]()
+![](https://github.com/JavierVassallo/Web--Responsive-Bootstrap/blob/master/imgReadme/1.png)
+
+
+![](https://github.com/JavierVassallo/Web--Responsive-Bootstrap/blob/master/imgReadme/2.png)
+
+
+![](https://github.com/JavierVassallo/Web--Responsive-Bootstrap/blob/master/imgReadme/3.png)
